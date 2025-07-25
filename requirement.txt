@@ -1,5 +1,0 @@
-streamlit
-moviepy
-numpy
-imageio
-imageio-ffmpeg
